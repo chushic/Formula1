@@ -4,4 +4,4 @@ This project follows instructions from the Udemy course [Azure Databricks & Spar
 ## Data 
 The data is requested from [Ergast API](http://ergast.com/mrd/). 
 
-## The document is under construction.
+The document is under construction.
